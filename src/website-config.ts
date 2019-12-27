@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Franck Aragão',
-  description: 'Blog pessoal sobre desenvolvimento de software',
+  description: 'MARIA AMARIA',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
