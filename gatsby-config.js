@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Franck Aragão',
     description: ' Blog pessoal sobre desenvolvimento de software',
-    siteUrl: 'https://gatsby-casper.netlify.com',
+    siteUrl: 'https://franckaragao.netlify.com',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://franckaragao.netlify.com',
       },
     },
     'gatsby-plugin-emotion',
