@@ -3,7 +3,7 @@
   "description": "Personal page",
   "version": "0.0.0",
   "private": true,
-  "author": "Franck <franckoaj@gmail.com>",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
